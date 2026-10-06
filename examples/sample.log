@@ -1,0 +1,6 @@
+2026-10-06T10:00:00Z INFO service started
+2026-10-06T10:00:02Z WARNING queue depth 41
+2026-10-06T10:00:03Z ERROR request 901 failed for 10.0.0.12
+2026-10-06T10:00:04Z ERROR request 902 failed for 10.0.0.13
+2026-10-06T10:00:05Z ERROR request 903 failed for 10.0.0.14
+2026-10-06T10:00:08Z CRITICAL worker 7 stopped unexpectedly
